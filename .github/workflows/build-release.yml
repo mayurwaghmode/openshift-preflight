@@ -10,7 +10,7 @@ on:
     branches: [ ghactions ]
 
 env:
-  IMAGE_NAME: preflight
+  IMAGE_NAME: preflight-test
 
 jobs:
   build-release:
